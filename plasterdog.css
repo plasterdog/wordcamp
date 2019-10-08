@@ -92,6 +92,10 @@ p, h1, h2, h3, h4, h5, h6, ol, ul,aside,
 .wp-block-gallery,.entry-header, .entry-meta, .entry-footer, .comments-area{width:90%!important;margin:0 5%!important;}
 }
 
+@media screen and (max-width: 1250px) {
+	p.site-description {font-size: 1em;}
+}
+
 @media screen and (max-width: 1075px) {
 /*ALL HEADER WIDGETS INSIDE OF:*/ 
 	#header-widgets{position: absolute; top:1em;width:100%; top:1em;
@@ -111,6 +115,7 @@ p, h1, h2, h3, h4, h5, h6, ol, ul,aside,
 }
 
 @media screen and (max-width: 950px) {
+	p.site-description {font-size: .75em;}
 	ul.social-links, ul.wordcamp-links{top:-2em;}
 	ul.wordcamp-links{padding-left:2em!important;}	
 	/*ALL HEADER WIDGETS INSIDE OF:*/ 
