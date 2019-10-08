@@ -131,6 +131,7 @@ p, h1, h2, h3, h4, h5, h6, ol, ul,aside,
 }
 
 @media screen and (max-width: 825px) {
+	ul#primary-menu{width:500px!important;}
 	.page-navigation-container {padding:0;}
 	#header-navigation{margin-top:-2em;}	
 	.page-navigation-container.secondary-navigation li {float: left;position: relative;clear: none;}
