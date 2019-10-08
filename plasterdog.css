@@ -115,7 +115,7 @@ p, h1, h2, h3, h4, h5, h6, ol, ul,aside,
 }
 
 @media screen and (max-width: 950px) {
-	p.site-description {font-size: .75em!important;}
+	p.site-description {visibity:collapse!important;}
 	ul.social-links, ul.wordcamp-links{top:-2em;}
 	ul.wordcamp-links{padding-left:2em!important;}	
 	/*ALL HEADER WIDGETS INSIDE OF:*/ 
@@ -132,6 +132,7 @@ p, h1, h2, h3, h4, h5, h6, ol, ul,aside,
 
 @media screen and (max-width: 825px) {
 	.page-navigation-container.toggled-on ul {display: block !important;width: 500px; margin-left:-1.25em!important;}
+	#primary-menu {width: 500px;}
 	.page-navigation-container {padding:0;}
 	#header-navigation{margin-top:-2em;}	
 	.page-navigation-container.secondary-navigation li {float: left;position: relative;clear: none;}
