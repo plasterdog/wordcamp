@@ -29,7 +29,7 @@ ul.wordcamp-links li .dashicons{font-size:2.5em;margin-right:1em;}
 /*ALL HEADER INSIDE OF:*/
 .site-branding {position: absolute;top:2em;left:2em;z-index: 999;}
 .site-branding  .site-title, .site-branding  .site-title a{color:#06131F;text-decoration: none;}
-h1.site-title, p.site-title{font-size: 2em; font-weight: bold;}
+h1.site-title{font-size: 2em; font-weight: bold;}
 p.site-description{color:#06131F; font-size:1.25em; font-weight: bold;}
 /*---SETTING UP THE OVERLAPPING IMAGES IN THE HEADER ---*/
 #masthead{position: relative;}
