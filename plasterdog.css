@@ -153,7 +153,7 @@ p, h1, h2, h3, h4, h5, h6, ol, ul,aside,
 	    background-color: #ffffff;}
 	.page-navigation-container ul{padding-bottom:2em;}
 	.page-navigation-container ul ul{padding-bottom:0;}
-	.main-navigation.page-navigation-container li {margin-left: 0;clear: both;padding-bottom:.5em;}
+	.main-navigation.page-navigation-container li {margin-left: 0;clear: both;padding-bottom:.5em;padding-right:2em;}
 	.page-navigation-container.toggled-on ul ul {display: block;}
 	.page-navigation-container.toggled-on ul ul {position: relative;top: 0; padding-left:1.5em;}
 	.page-navigation-container ul ul {box-shadow: 0 0 0 rgba(0, 0, 0, 0.0)!important;float: left;position: absolute;top: 1.5em;left: 0!important;
