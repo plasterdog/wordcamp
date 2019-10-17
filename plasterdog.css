@@ -86,7 +86,7 @@ p.site-description{color:#06131F; font-size:1.25em; font-weight: bold;}
 .main-navigation.page-navigation-container li{margin-left:2em;}
 .main-navigation.page-navigation-container ul ul li{margin:.5em 0 .5em .5em;}
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1450px) {
 p, h1, h2, h3, h4, h5, h6,aside, .entry-content ul, .entry-content ol,
 .wp-block-gallery,.entry-header, .entry-meta, .entry-footer, .comments-area{width:90%; margin:0 auto!important;}
 }
