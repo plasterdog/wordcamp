@@ -13,6 +13,7 @@ p.site-description {color: #06131F;	font-size: 1em;	font-weight: bold;}
 .error404 .widget select {visibility: collapse;}
 .avatar.avatar-100.photo {float: left;margin: 0 1em 1em 0;}
 #page{}
+.wcorg-organizer-description {padding-bottom: 2em;}
 /*--- PER BD request we are dropping the cover image option and using a sidebar afterall---*/
 #primary {max-width: 1400px;margin: 0 auto;}
 #main {float: left;width: 70%;}
