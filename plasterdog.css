@@ -16,8 +16,11 @@ p.site-description {color: #06131F;	font-size: 1em;	font-weight: bold;}
 /*--- PER BD request we are dropping the cover image option and using a sidebar afterall---*/
 #primary {max-width: 1400px;margin: 0 auto;}
 #main {float: left;width: 70%;}
+.entry-content {margin-right: 5em;}
 .no-sidebar #main{width:100%;}
 #secondary {float: left; width: 23%; margin-left: 2%;display:block!important;}
+/*---LITTLE THINGS---*/
+.wcorg-organizer {padding-bottom: 2em;}
 /*ELEMENTS THAT SOULD BE CONTAINED - but are no longer since the cover option has been abandoned*/
 p, h1, h2, h3, h4, h5, h6, .entry-content ol, .entry-content ul,aside, .wp-block-gallery,.entry-header, .entry-meta, .entry-footer, 
 .comments-area, .wcorg-organizer-description, .contact-form {/*max-width:1400px!important;margin:0 auto!important;*/}
@@ -123,6 +126,7 @@ p, h1, h2, h3, h4, h5, h6,aside, .entry-content ul, .entry-content ol,  .wp-bloc
 	.custom-header {max-height:285px;}
 	.custom-header-media {position: relative;height: 285px;}
 	.custom-header-media .wp-custom-header{}
+	.custom-header-media .wp-custom-header {margin-left: 0;}
 	.custom-header-media .wp-custom-header img {height:500px; left:0 !important;max-width: none;  }
 }
 
