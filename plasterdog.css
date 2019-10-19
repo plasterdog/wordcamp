@@ -1,3 +1,4 @@
+
 /*
 CHICAGO BLUE = #3399ff
 DARKER BLUE = #06131F
@@ -122,7 +123,7 @@ p, h1, h2, h3, h4, h5, h6,aside, .entry-content ul, .entry-content ol,  .wp-bloc
 	.custom-header {max-height:285px;}
 	.custom-header-media {position: relative;height: 285px;}
 	.custom-header-media .wp-custom-header{}
-	.custom-header-media .wp-custom-header img {width: 150%;left:0 !important;*/max-width: none;}
+	.custom-header-media .wp-custom-header img {height:285px; left:0 !important;max-width: none;}
 }
 
 @media screen and (max-width: 950px) {
